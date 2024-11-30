@@ -3,7 +3,7 @@
 
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/sangram03/G_Cloud/count.svg" />  
+  <img src="https://profile-counter.glitch.me/sangram03/count.svg" />  
 </p>
 
 
